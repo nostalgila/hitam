@@ -1,4 +1,5 @@
-body{font-family: sans-serif;color: #999;font-size: 13px;margin: 0;}a:link, a:visited {color:#666;text-decoration:none;}a:hover{color:#999;}a img {border-width:0;}#wrapper{width:100%;max-width:70%;margin: 0 auto;padding:0 auto;}
+    
+ body{font-family: sans-serif;color: #999;font-size: 13px;margin: 0;}a:link, a:visited {color:#666;text-decoration:none;}a:hover{color:#999;}a img {border-width:0;}#wrapper{width:100%;max-width:70%;margin: 0 auto;padding:0 auto;}
 /* -- SEO TEXT -- */
 .seotext {text-align:center;padding:7px;}.seotext img {max-width:250px;height:auto;position:relative;z-index:999;margin:0 auto;}.description {margin:0.1em 0 0;padding:5px 70px 5px 70px;}.title {font-size: 21px;line-height: 1.4em;margin:0 auto;text-transform: uppercase;}.title a {font-size: 21px;line-height: 1.4em;margin:0 auto;text-transform: uppercase;}
  /* -- MAIN SET -- */
@@ -19,11 +20,21 @@ background:url(https://1.bp.blogspot.com/-XuPSERRsagw/V1JLzn4d9VI/AAAAAAAALwA/vv
 /* -- BREADCRUMBS SET -- */
 .breadcrumbs {text-align:center;margin:0 auto;border-radius:0px 0px 30px 30px;color: #666;border-bottom: 2px solid #ccc;background:#ddd;}.breadcrumbs a {color: #666;}
 /* -- FOOTER SET -- */
-.post-footer {line-height: 1.6em;padding: 2px;}.post-footer a {color: #65BDDF;}#footer {font-size: 90%;margin: 0 auto;padding: 7px;border-top: 1px solid #bbb;text-align: center;}
+.post-footer {line-height: 1.6em;padding: 2px;}.post-footer a {color: #65BDDF;}#footer-bg{font-size: 90%;margin: 0 auto;padding: 7px;border-top: 2px solid #bbb;border-bottom: 2px solid #bbb;text-align: center;width:100%;max-width:70%;position:relative;z-index:999;
+position:relative;z-index:999;background-image:-webkit-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
+  background-image:-moz-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
+  background-image:-ms-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
+  background-image:-o-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
+  background-image:linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
+  -webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,0.3),0px 0 1px #515151;
+  -moz-box-shadow:inset 0 1px 0 rgba(255,255,255,0.3),0px 0 1px #515151;
+  box-shadow:inset 0 1px 0 rgba(255,255,255,0.3),0px 0 1px #515151;    
+}
+ #footer { margin: 0 auto;text-align: center;}
 /* -- BLOGPAGER SET -- */
 #blog-pager-newer-link{float:left}#blog-pager-older-link{float:right}#blog-pager{text-align:center}.feed-links { clear: both; line-height: 2.5em;display:none;}.home_menu {background:url(//1.bp.blogspot.com/-xrtUfyPYscQ/T_rX4TeTPGI/AAAAAAAABl4/TSoglJcs2Ps/s1600/Viva-Blogspot.png) 0px -579px;width: 10px;height: 10px;margin: 15px 5px;float: left;}
 /*-----Drop Down Menu ----*/
-.seotext,#footer-bg,#sidebar-wrapper h1,#sidebar-wrapper h2, #sidebar-wrapper h3, #sidebar-wrapper h4,#menu{padding: 2px;margin:0 auto;width:100%;max-width:70%;position:relative;z-index:999;background-image:-webkit-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
+.seotext,#sidebar-wrapper h1,#sidebar-wrapper h2, #sidebar-wrapper h3, #sidebar-wrapper h4,#menu{padding: 2px;margin:0 auto;width:100%;max-width:100%;position:relative;z-index:999;background-image:-webkit-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
   background-image:-moz-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
   background-image:-ms-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
   background-image:-o-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
