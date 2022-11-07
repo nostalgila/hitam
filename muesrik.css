@@ -1,5 +1,4 @@
-    
- body{font-family: sans-serif;color: #999;font-size: 13px;margin: 0;}a:link, a:visited {color:#666;text-decoration:none;}a:hover{color:#999;}a img {border-width:0;}#wrapper{width:100%;max-width:70%;margin: 0 auto;padding:0 auto;}
+body{font-family: sans-serif;color: #999;font-size: 13px;margin: 0;}a:link, a:visited {color:#666;text-decoration:none;}a:hover{color:#999;}a img {border-width:0;}#wrapper{width:100%;max-width:90%;margin: 0 auto;padding:0 auto;}
 /* -- SEO TEXT -- */
 .seotext {text-align:center;padding:7px;}.seotext img {max-width:250px;height:auto;position:relative;z-index:999;margin:0 auto;}.description {margin:0.1em 0 0;padding:5px 70px 5px 70px;}.title {font-size: 21px;line-height: 1.4em;margin:0 auto;text-transform: uppercase;}.title a {font-size: 21px;line-height: 1.4em;margin:0 auto;text-transform: uppercase;}
  /* -- MAIN SET -- */
@@ -20,7 +19,7 @@ background:url(https://1.bp.blogspot.com/-XuPSERRsagw/V1JLzn4d9VI/AAAAAAAALwA/vv
 /* -- BREADCRUMBS SET -- */
 .breadcrumbs {text-align:center;margin:0 auto;border-radius:0px 0px 30px 30px;color: #666;border-bottom: 2px solid #ccc;background:#ddd;}.breadcrumbs a {color: #666;}
 /* -- FOOTER SET -- */
-.post-footer {line-height: 1.6em;padding: 2px;}.post-footer a {color: #65BDDF;}#footer-bg{font-size: 90%;margin: 0 auto;padding: 7px;border-top: 2px solid #bbb;border-bottom: 2px solid #bbb;text-align: center;width:100%;max-width:70%;position:relative;z-index:999;
+.post-footer {line-height: 1.6em;padding: 2px;}.post-footer a {color: #65BDDF;}#footer-bg{font-size: 90%;margin: 0 auto;padding: 7px;border-top: 2px solid #bbb;border-bottom: 2px solid #bbb;text-align: center;width:100%;max-width:90%;position:relative;z-index:999;
 position:relative;z-index:999;background-image:-webkit-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
   background-image:-moz-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
   background-image:-ms-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%);
@@ -90,7 +89,11 @@ background-image:-webkit-linear-gradient(top,#181a1c 0%,#3d3e40 50%,#212121 100%
 @media screen and (max-width: 992px) {}
 @media screen and (min-width:801px){}
 @media screen and (max-width:800px){#wrapper {width: 100%;}#footer-bg {width: 100%;}
-img,video,object {max-width: 100%;}#sidebar-wrapper{width:100%;}.searchBox{width:100%;}.iframe{width:100%;}.script{width:100%;}.button{width:100%;}.download2{width:100%;}#main-wrapper{width:100%;}.post-thumbnail {width: 100px;}.PopularPosts .item-snippet {font-size: 100%;}.seotext img{text-align:center;margin:0 auto;}.description,.seotext {text-align:center;float:center;}}
+img,video,object {max-width: 100%;}#sidebar-wrapper{width:100%;}.searchBox{width:100%;}.iframe{width:100%;}.script{width:100%;}.button{width:100%;}.download2{width:100%;}#main-wrapper{width:100%;}.post-thumbnail {width: 100px;}.PopularPosts .item-snippet {font-size: 100%;}.seotext img{text-align:center;margin:0 auto;}.description{display:none;}
+    
+    
+    
+    .seotext {text-align:center;float:center;}}
 @media only screen and (max-width:768px){#sidebar-wrapper{width:100%;}#main-wrapper{width:100%;}.searchBox{width:100%;}.iframe{width:100%;}.script{width:100%;}.button{width:100%;}.script{width:100%;}.download2{width:100%;}.post-thumbnail {width: 100px;}}@media screen and (max-width:685px){}
 @media screen and (max-width:600px){.post-info {display:none;}.post-thumbnail {width: 50px;height: 50px;}.status-msg-border{width:100%}.post h2{font-size:100%;}}
 @media screen and (max-width:480px){.comments .comments-content .user{line-height:2.8em;}.post h2{font-size:100%;}.post h1{font-size: 120%;}body, .body-fauxcolumn-outer {font-size: 80%;}}@media screen and (max-width:380px){.comments .comments-content .datetime{display:block;float:none;word-wrap:break-word;}
@@ -135,3 +138,4 @@ box-sizing:border-box;}
 .embed-responsive{position:relative;display:block;height:0;padding:0;overflow:hidden}.embed-responsive .embed-responsive-item,.embed-responsive embed,.embed-responsive iframe,.embed-responsive
 object{position:absolute;top:0;bottom:0;left:0;width:100%;height:100%;border:0}
 .embed-responsive.embed-responsive-16by9{padding-bottom:20%}.embed-responsive.embed-responsive-4by3{padding-bottom:60%}
+  
